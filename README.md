@@ -61,25 +61,25 @@ Used in:
 
 ## Core Functionalities
 
-### ✔ Add Building / Location  
+### Add Building / Location  
 - Store building name, type, code, or zone.  
 - Add to tree + graph structure.
 
-### ✔ Display Campus Map  
+### Display Campus Map  
 - Show all buildings  
 - Show edges (connections)  
 - Display adjacency matrix/list  
 
-### ✔ Find Navigation Path  
+### Find Navigation Path  
 - Compute shortest path  
 - Show step-by-step route  
 - Use BFS/DFS/Dijkstra depending on context  
 
-### ✔ Manage Utility Layouts  
+### Manage Utility Layouts  
 - Model water, power, or goods delivery routes  
 - Optimize based on minimum distance  
 
-### ✔ Building Hierarchy Tree  
+### Building Hierarchy Tree  
 - Insert, search, and display building hierarchy  
 - Show parent and child nodes  
 
